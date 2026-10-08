@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AML</string>
+    <string name="welcome_title">Welcome to AML</string>
+    <string name="welcome_subtitle">Local and cloud AI, all in one place.</string>
+    <string name="add_api_key">Add an API key</string>
+    <string name="download_model">Download a local model</string>
+    <string name="chat_hint">AI-generated, for reference only</string>
+</resources>
